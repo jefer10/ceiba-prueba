@@ -9,8 +9,10 @@ import org.springframework.web.bind.annotation.PostMapping;
 @RequestMapping("prestamo")
 public class PrestamoControlador {
 
-@PostMapping("/prestamo")
-public prestamo
+@PostMapping("")
+public void prestamo(){
+
+}
 
 
 }
